@@ -1,0 +1,129 @@
+DEBUG 2019-02-25 14:08:20,831   164ms HomeController         Index              - Esta es mi captura de LOG
+DEBUG 2019-02-25 14:08:47,157 26490ms HomeController         Index              - Esta es mi captura de LOG
+DEBUG 2019-02-25 14:09:28,657 67990ms HomeController         Index              - Esta es mi captura de LOG
+DEBUG;2019-02-25 14:12:02;Index;Esta es mi captura de LOG
+DEBUG 2019-02-25 14:32:28,374   220ms HomeController         Index              - Esta es mi captura de LOG
+FATAL 2019-02-25 14:40:03,515   232ms HomeController         Index              - Esta es mi captura de LOG Fatal
+ERROR 2019-02-25 14:40:03,578   295ms HomeController         Index              - Esta es mi captura de LOG Error
+WARN  2019-02-25 14:40:03,579   296ms HomeController         Index              - Esta es mi captura de LOG Warn
+INFO  2019-02-25 14:40:03,580   297ms HomeController         Index              - Esta es mi captura de LOG Info
+DEBUG 2019-02-25 14:40:03,581   298ms HomeController         Index              - Esta es mi captura de LOG Debug
+INFO  2019-02-25 14:42:05,310    93ms HomeController         Index              - Esta es mi captura de LOG Info
+INFO  2019-02-25 15:11:32,873   124ms HomeController         Index              - Esta es mi captura de LOG Info
+INFO  2019-02-25 15:13:10,933 98183ms Logger                 WriteInfo          - LMAZA                     | Información de mensaje INFO!!!
+INFO  2019-02-25 15:17:32,566    98ms HomeController         Index              - Esta es mi captura de LOG Info
+INFO  2019-02-25 15:18:46,007 73539ms Logger                 WriteInfo          - HomeController | About    | Información de mensaje INFO!!!
+INFO  2019-02-25 15:23:05,188    90ms HomeController         Index              - Esta es mi captura de LOG Info
+INFO  2019-02-25 15:23:45,747 40649ms Logger                 WriteInfo          - HomeController | About    | Información de mensaje INFO!!!
+INFO  2019-02-25 15:23:46,115 41017ms HomeController         Index              - Esta es mi captura de LOG Info
+INFO  2019-02-25 15:37:06,674   110ms HomeController         Index              - Esta es mi captura de LOG Info
+INFO  2019-02-25 15:37:57,767 51202ms HomeController         WriteInfo          - LMAZA                     | Información de mensaje INFO!!!
+INFO  2019-02-25 15:40:00,437   123ms HomeController         Index              - Esta es mi captura de LOG Info
+INFO  2019-02-25 15:40:27,800 27485ms HomeController         WriteInfo          - LMAZA                     | Información de mensaje INFO!!!
+INFO  2019-02-25 15:40:53,150 52836ms HomeController         WriteInfo          - LMAZA                     | Información de mensaje INFO!!!
+INFO  2019-02-25 15:40:58,247 57933ms HomeController         Index              - Esta es mi captura de LOG Info
+WARN  2019-02-25 15:46:14,096    92ms HomeController         WriteWarning       - Index                     | Información de mensaje WARNING!!!
+INFO  2019-02-25 15:47:19,115 65110ms HomeController         WriteInfo          - About                     | Información de mensaje INFO!!!
+INFO  2019-02-25 15:47:59,476 105472ms HomeController         WriteInfo          - About                     | Información de mensaje INFO!!!
+WARN  2019-02-25 15:48:02,917 108912ms HomeController         WriteWarning       - Index                     | Información de mensaje WARNING!!!
+WARN  2019-02-25 15:57:50,599   147ms HomeController         WriteWarning       -                           | Información de mensaje WARNING!!!
+INFO  2019-02-25 15:58:07,537 17084ms HomeController         WriteInfo          -                           | Información de mensaje INFO!!!
+WARN  2019-02-25 15:58:10,628 20176ms HomeController         WriteWarning       -                           | Información de mensaje WARNING!!!
+WARN  2019-02-25 16:47:27,881    93ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 16:48:00,960 33172ms HomeController         WriteInfo          - WebApplicationLog4Net.Controllers.HomeController | Información de mensaje INFO!!!
+WARN  2019-02-25 16:49:48,461   114ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 16:49:58,145  9798ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 16:50:23,488 35141ms HomeController         WriteInfo          - System.Web.Mvc.UrlHelper       | Información de mensaje INFO!!!
+INFO  2019-02-25 16:56:42,181 413834ms HomeController         WriteInfo          - System.Web.Mvc.UrlHelper       | Información de mensaje INFO!!!
+WARN  2019-02-25 16:57:31,146 462799ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 16:58:05,712   227ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 16:58:12,155  6670ms HomeController         WriteInfo          - WebApplicationLog4Net.Controllers.HomeController | Información de mensaje INFO!!!
+INFO  2019-02-25 16:58:16,837 11351ms HomeController         WriteInfo          - WebApplicationLog4Net.Controllers.HomeController | Información de mensaje INFO!!!
+WARN  2019-02-25 16:58:19,726 14240ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 16:58:21,165 15679ms HomeController         WriteInfo          - WebApplicationLog4Net.Controllers.HomeController | Información de mensaje INFO!!!
+WARN  2019-02-25 16:58:22,067 16581ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 16:59:06,320   144ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 16:59:11,799  5623ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 16:59:13,616  7440ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 16:59:14,546  8370ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 16:59:16,743 10567ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 16:59:17,536 11360ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 16:59:18,436 12260ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:03:03,153   103ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:03:27,186    93ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:03:41,937 14843ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:03:45,550 18457ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+INFO  2019-02-25 17:03:47,860 20766ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:03:48,972 21878ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:04:18,915 51821ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:04:20,968 53874ms AccountController      WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:04:32,627 65533ms AccountController      WriteInfo          - Login                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:04:35,623 68529ms AccountController      WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:04:41,837 74743ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:04:44,843 77749ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:06:26,229   104ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:06:33,443  7318ms HomeController         WriteInfo          - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:06:34,384  8259ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:06:35,914  9789ms AccountController      WriteWarning       - Register                       | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:06:41,854 15728ms AccountController      WriteInfo          - Login                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:06:44,094 17969ms AccountController      WriteWarning       - Register                       | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:06:45,931 19806ms AccountController      WriteInfo          - Login                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:06:48,819 22694ms HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:38:35,419   126ms [32] (c:\users\pc04\documents\visual studio 2015\Projects\WebApplicationLog4Net\WebApplicationLog4Net\Logger.cs:89) HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:41:00,996   105ms [31] (c:\users\pc04\documents\visual studio 2015\Projects\WebApplicationLog4Net\WebApplicationLog4Net\Logger.cs:89) WebApplicationLog4Net.Controllers.HomeController [(null)] HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:43:18,445   138ms (Linea:89) HomeController         WriteWarning       - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 17:44:55,597   213ms HomeController         WriteWarning       (Line:89) - Index                          | Información de mensaje WARNING!!!
+INFO  2019-02-25 17:45:01,502  6118ms HomeController         WriteInfo          (Line:83) - About                          | Información de mensaje INFO!!!
+WARN  2019-02-25 17:45:02,407  7023ms HomeController         WriteWarning       (Line:89) - Index                          | Información de mensaje WARNING!!!
+WARN  2019-02-25 18:22:59,957    94ms HomeController         Index              (Line:39) - Información de mensaje WARNING!!!
+INFO  2019-02-25 18:23:40,261 40397ms HomeController         About              (Line:47) - Información de mensaje INFO!!!
+WARN  2019-02-25 18:23:41,663 41799ms HomeController         Index              (Line:39) - Información de mensaje WARNING!!!
+INFO  2019-02-25 18:23:55,226 55362ms AccountController      Login              (Line:65) - Información de mensaje INFO!!!
+WARN  2019-02-25 18:23:58,937 59073ms HomeController         Index              (Line:39) - Información de mensaje WARNING!!!
+WARN  2019-02-25 18:28:08,227    90ms HomeController         Index              (Line:39) - Información de mensaje WARNING!!!
+INFO  2019-02-25 18:28:13,305  5168ms HomeController         About              (Line:46) - Información de mensaje INFO!!!
+INFO  2019-02-25 18:28:17,098  8960ms HomeController         About              (Line:46) - Información de mensaje INFO!!!
+WARN  2019-02-25 18:28:18,132  9994ms HomeController         Index              (Line:39) - Información de mensaje WARNING!!!
+INFO  2019-02-25 18:28:19,379 11241ms AccountController      Login              (Line:65) - Información de mensaje INFO!!!
+WARN  2019-02-25 18:28:22,056 13918ms HomeController         Index              (Line:39) - Información de mensaje WARNING!!!
+INFO  2019-02-25 18:28:22,989 14851ms HomeController         About              (Line:46) - Información de mensaje INFO!!!
+WARN  2019-02-25 18:45:04,879   105ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:45:08,422  3648ms HomeController         About              (Line:50) - Tipo: Error APP                 | Msg: Información de mensaje INFO!!!
+WARN  2019-02-25 18:45:11,260  6485ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:45:15,526 10751ms HomeController         About              (Line:50) - Tipo: Error APP                 | Msg: Información de mensaje INFO!!!
+WARN  2019-02-25 18:45:16,627 11852ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+WARN  2019-02-25 18:45:18,249 13474ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+WARN  2019-02-25 18:45:20,036 15261ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:45:22,179 17404ms HomeController         About              (Line:50) - Tipo: Error APP                 | Msg: Información de mensaje INFO!!!
+WARN  2019-02-25 18:45:24,256 19482ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:45:26,103 21329ms AccountController      Login              (Line:63) - Información de mensaje INFO!!!
+WARN  2019-02-25 18:45:34,586 29811ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+WARN  2019-02-25 18:48:16,078   261ms HomeController         Index              (Line:43) - Tipo: Error DB                  | Msg: Información de mensaje WARNING!!!
+WARN  2019-02-25 18:49:07,050    95ms HomeController         Index              (Line:43) - Tipo: Error DB             | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:49:14,877  7921ms HomeController         About              (Line:50) - Tipo: Error APP            | Msg: Información de mensaje INFO!!!
+WARN  2019-02-25 18:49:15,863  8907ms HomeController         Index              (Line:43) - Tipo: Error DB             | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:49:16,934  9978ms AccountController      Login              (Line:65) - Tipo: Error APP            | Msg: Información de mensaje INFO!!!
+WARN  2019-02-25 18:49:20,311 13355ms HomeController         Index              (Line:43) - Tipo: Error DB             | Msg: Información de mensaje WARNING!!!
+WARN  2019-02-25 18:51:09,116 HomeController         Index              (Line:43) - Tipo: Error DB             | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:51:14,726 HomeController         About              (Line:50) - Tipo: Error APP            | Msg: Información de mensaje INFO!!!
+INFO  2019-02-25 18:51:17,793 HomeController         About              (Line:50) - Tipo: Error APP            | Msg: Información de mensaje INFO!!!
+WARN  2019-02-25 18:51:18,778 HomeController         Index              (Line:43) - Tipo: Error DB             | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:51:20,284 AccountController      Login              (Line:65) - Tipo: Error APP            | Msg: Información de mensaje INFO!!!
+WARN  2019-02-25 18:51:22,963 HomeController         Index              (Line:43) - Tipo: Error DB             | Msg: Información de mensaje WARNING!!!
+INFO  2019-02-25 18:51:24,177 HomeController         About              (Line:50) - Tipo: Error APP            | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-25 18:53:22,115] HomeController         Index              [Line:43] - Tipo: Error DB        | Msg: Información de mensaje WARNING!!!
+INFO  [2019-02-25 18:53:25,612] HomeController         About              [Line:50] - Tipo: Error APP       | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-25 18:53:27,078] HomeController         Index              [Line:43] - Tipo: Error DB        | Msg: Información de mensaje WARNING!!!
+INFO  [2019-02-25 18:53:28,046] AccountController      Login              [Line:65] - Tipo: Error APP       | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-25 18:53:30,563] HomeController         Index              [Line:43] - Tipo: Error DB        | Msg: Información de mensaje WARNING!!!
+INFO  [2019-02-25 18:53:31,931] HomeController         About              [Line:50] - Tipo: Error APP       | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-25 18:53:32,717] HomeController         Index              [Line:43] - Tipo: Error DB        | Msg: Información de mensaje WARNING!!!
+WARN  [2019-02-25 18:56:16,589] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!
+INFO  [2019-02-25 18:56:49,224] HomeController         About              [Line:30] - Type: Error APP       | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-25 18:56:50,529] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!
+WARN  [2019-02-25 18:56:52,266] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!
+INFO  [2019-02-25 18:56:53,485] AccountController      Login              [Line:65] - Type: Error APP       | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-25 18:57:02,843] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!
+INFO  [2019-02-25 19:08:09,993] HomeController         About              [Line:30] - Type: Error APP       | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-25 19:08:11,082] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!
+WARN  [2019-02-25 19:08:11,717] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!

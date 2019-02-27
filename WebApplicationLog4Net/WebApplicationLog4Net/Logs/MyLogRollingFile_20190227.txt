@@ -1,0 +1,4 @@
+WARN  [2019-02-27 10:01:34,352] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!
+INFO  [2019-02-27 10:01:51,424] HomeController         About              [Line:30] - Type: Error APP       | Msg: Información de mensaje INFO!!!
+INFO  [2019-02-27 10:01:53,333] AccountController      Login              [Line:65] - Type: Error APP       | Msg: Información de mensaje INFO!!!
+WARN  [2019-02-27 10:01:55,259] HomeController         Index              [Line:23] - Type: Error DB        | Msg: Información de mensaje WARNING!!!
